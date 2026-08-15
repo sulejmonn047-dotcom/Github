@@ -3,7 +3,7 @@ from telegram import Update
 from telegram.ext import Application, CommandHandler, ContextTypes
 
 # 👇 ИН ҶО TOKEN-И БОТФАТЕР-РО ГУЗОР
-TOKEN = "TOKEN-И-ТУ-РО-ИН-ҶО-ГУЗОР"
+TOKEN = "8684879388:AAGL_6r_pV6ZJcXDyRA6uvcTa3lMOG8M0Vo"
 
 logging.basicConfig(
     format="%(asctime)s - %(name)s - %(levelname)s - %(message)s",
